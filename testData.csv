@@ -1,0 +1,6 @@
+Date,Time,Value date,Product,ISIN,Description,FX,Change,Amount,Balance,,Order Id
+01-01-2026,10:00,01-01-2026,,,iDEAL Deposit,,EUR,"1000,00",EUR,"1000,00",
+10-01-2026,12:00,10-01-2026,,,Buy ETF,,EUR,"-800,00",EUR,"200,00",ORD001
+20-01-2026,12:00,20-01-2026,,,Dividend ETF,,EUR,"20,00",EUR,"220,00",
+01-02-2026,09:00,01-02-2026,,,SEPA Instant Terugstorting,,EUR,"-100,00",EUR,"120,00",
+01-03-2026,16:00,01-03-2026,,,Portfolio Value (end),,EUR,"1200,00",EUR,"1200,00",
